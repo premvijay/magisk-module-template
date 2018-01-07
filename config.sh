@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    Mtk ClearMotion Enabler    "
+  ui_print "    MTK ClearMotion Enabler    "
   ui_print "*******************************"
 }
 
