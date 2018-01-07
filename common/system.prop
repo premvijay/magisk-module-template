@@ -1,3 +1,10 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+
+persist.sys.display.clearMotion=1
+persist.clearMotion.fblevel.nrm=255
+persist.clearMotion.fblevel.bdr=255
+ro.mtk_clearmotion_support=1
+ro.mtk_slow_motion_support=1
+ro.mtk_16x_slowmotion_support=1
