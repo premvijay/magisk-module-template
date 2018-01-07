@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=ClearMotionEnabler
+name=MTK ClearMotion Enabler
+version=v2018.01.07
+versionCode=20180107
+author=premvijay
+description=After install, reboot and play a video using MX Player (or any player that supports HW decoding) and feel the difference.
 minMagisk=1500
